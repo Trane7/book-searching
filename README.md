@@ -10,4 +10,8 @@ This is a Google Book Search Engine is a MERN stack that allows the User to sear
 
 
 ## Usage
-To access this application please go to https://git.heroku.com/searching-book.git
+To access this application please go to https://git.heroku.com/searching-book.git,
+create an account and then start searching and saving all the books you love!!!
+
+## Installation
+1. 
